@@ -1,0 +1,4 @@
+self shutdown delete all content
+Self(shutdown liveview)
+self(shutdown content)
+self(shutdown https://www.google.com/)
